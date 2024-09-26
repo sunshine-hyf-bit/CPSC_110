@@ -1023,6 +1023,27 @@ The on-mouse function is templated according to its `MouseEvent` argument, also 
 ```
 
 
+## 👨 Contributors
+
+<table>
+  <tbody>
+      <td align="center" valign="middle" width="128">
+         <a href="https://github.com/bochendong">
+          <img src="https://github.com/bochendong.png?size=128" />
+          Bochen Dong
+        </a>
+        <br>
+        <sub><sup>Team Member</sup></sub>
+      </td>
+     
+  </tbody>
+</table>
+
+
+## 📝 License
+
+[MIT License](https://github.com/leon-ai/leon/blob/develop/LICENSE.md)
+
 
 
 
