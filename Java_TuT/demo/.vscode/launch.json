@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "com.example.App",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
+      "name": "Launch JavaFX App",
+      "request": "launch",
+      "mainClass": "com.example.Main",
+      "vmArgs": "--module-path /Users/dongpochen/javafx/javafx-sdk-23/lib --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}
